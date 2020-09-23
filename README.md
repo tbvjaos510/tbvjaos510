@@ -5,7 +5,11 @@
   <img height="150" src="https://post-phinf.pstatic.net/MjAxNzA5MjdfNTcg/MDAxNTA2NDQ3ODgzNTk3.l71KQJfQXouQEIZLTRpBKDoxYA6dxMotQwmjpiiDQqkg.K56gtZ8-4As4XLcNyLeM21CBTFV4VcCo9UVMim3DjWMg.JPEG/maxresdefault_%281%29.jpg?type=w1200" />
 </div>
 
-> 야....돈\
-> 야도....란
+<details>
+  <summary> </summary>
+
+  > 야....돈\
+  > 야도....란  
+</details>
 
 [![tbvjaos510's github stats](https://github-readme-stats.vercel.app/api?username=tbvjaos510&show_icons=true&hide_border=true&count_private=true)](https://github.com/SoohanBae)
