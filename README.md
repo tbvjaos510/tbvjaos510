@@ -16,3 +16,5 @@
 </details>
 
 [![배수한최고!](https://github-readme-stats.vercel.app/api?username=SoohanBae&show_icons=true&hide_border=true&count_private=true)](https://github.com/SoohanBae)
+
+수한아 빨리 커밋해라
